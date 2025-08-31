@@ -1,10 +1,4 @@
 <h1 align="center">👋 Hey, I’m Zeph</h1>
-
-<p align="center">
-  <b>Developer @ FrostWare | Ex-Dev @ ReveliX | Contributor @ Punk Team</b><br/>
-  <i>Formerly known as Blitz</i>
-</p>
-
 ---
 
 ### 🚀 About Me
