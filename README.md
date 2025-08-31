@@ -12,7 +12,7 @@
 ### 🧠 Skills & Interests
 - 🔹 **Languages:** Lua, Luau  
 - 🔹 **Reverse Engineering:** Intermediate (always learning)  
-- 🔹 **Focus:** Tooling, UI design, clean & efficient scripting  
+- 🔹 **Focus:** UI design, Scripting
 
 ---
 
