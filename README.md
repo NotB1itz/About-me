@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I’m Zeph</h1>
----
 
 ### 🚀 About Me
+- 💀 Owner of script hub **GrimWare**
 - 💻 Currently working at **FrostWare**
 - 🛠️ Ex-developer at **ReveliX**
 - 🤝 Contributor to **Punk Team**
@@ -18,8 +18,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeph&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeph&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luvedbyzeph&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvedbyzeph&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -32,4 +32,4 @@
 
 ---
 
-<p align="center"><i>"Keep building, keep learning."</i></p>
+<p align="center"><i>"When life get hard you stop but when you get hard you keep going think of your life like a dick."</i></p>
