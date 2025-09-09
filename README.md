@@ -4,7 +4,7 @@
 - 💀 Owner of script hub **Bytrex**
 - 💻 Currently working at **FrostWare**
 - 🛠️ Ex-developer at **ReveliX**
-- 🤝 Contributor to **Punk Team & DarkModz**
+- 🤝 Contributed to **Punk Team, DarkModz & Venox**
 - 🌀 Formerly known as **Blitz**
 
 ---
