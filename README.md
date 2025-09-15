@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I’m Zeph</h1>
 
 ### 🚀 About Me
-- 💀 Owner of script hub **Bytrex**
+- 💀 Owner of script hub **GrimWare**
 - 💻 Currently working at **FrostWare**
 - 🛠️ Ex-developer at **ReveliX**
 - 🤝 Contributed to **Punk Team, DarkModz & Venox**
